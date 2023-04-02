@@ -311,8 +311,9 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right;
-  background-size: cover;
+  /* background: url("../img/Swetha_pic.jpeg") top right; */
+  /* background-size: cover; */
+  background-color: darkslategrey;
   position: relative;
 }
 
@@ -1356,4 +1357,8 @@ section {
 
 .linkin-class{
   color : #444444;
+}
+
+.textList {
+  text-align: justify;
 }
